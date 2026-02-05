@@ -9,3 +9,6 @@ def sync_inventory():
 
 if __name__ == "__main__":
     sync_inventory()
+
+# Phase 2: batch mode
+BATCH_SIZE = 50
